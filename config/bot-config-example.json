@@ -41,7 +41,7 @@
 	],
 	"connection": {
 		"database": "database",
-		"usename": "username",
+		"username": "username",
 		"password": "password",
 		"host": "localhost",
 		"storage": "database"
