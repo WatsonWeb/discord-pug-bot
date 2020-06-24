@@ -20,7 +20,7 @@
     "discord.js": "latest",
     "pg": "latest",
     "pg-hstore": "latest",
-    "sequelize": "latest"
+    "sequelize": "^6.1.0"
   },
   "scripts": {
     "start": "node index.js"
