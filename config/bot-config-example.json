@@ -1,0 +1,50 @@
+{
+	"prefix": "!",
+	"token": "<bot token>",
+	"player_limit": 12,
+	"bot_channel": "bot-channel",
+	"watched_channels": ["12-Mans Lobby","12-Mans Team A","12-Mans Team B"],
+	"queue_channel": ["12-Mans Queue"],
+	"ranks": [
+		"Top 500",
+		"Grandmaster",
+		"Master",
+		"Diamond",
+		"Platinum",
+		"Gold",
+		"Silver",
+		"Bronze",
+		"@everyone"
+	],
+	"maps": [
+		"Busan",
+		"Ilios",
+		"Lijiang Tower",
+		"Nepal",
+		"Oasis",
+		"Hanamura",
+		"Horizon Lunar Colony",
+		"Paris",
+		"Temple of Anubis",
+		"Volskaya",
+		"Dorado",
+		"Havana",
+		"Junkertown",
+		"Rialto",
+		"Route 66",
+		"Watchpoint: Gibraltar",
+		"Blizzard World",
+		"Eichenwalde",
+		"Hollywood",
+		"King's Row",
+		"Numbani"
+	],
+	"connection": {
+		"database": "database",
+		"usename": "username",
+		"password": "password",
+		"host": "localhost",
+		"storage": "database"
+	},
+	"timer_minutes": 5
+}

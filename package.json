@@ -1,0 +1,28 @@
+{
+  "name": "winnipeg-pugbot",
+  "version": "2.1.0",
+  "description": "Discord bot made to help organize and track PUGs",
+  "main": "index.js",
+  "keywords": [
+    "node.js",
+    "overwatch",
+    "valorant",
+    "winnipeg",
+    "discord",
+    "discordjs",
+    "postgres",
+    "javascript",
+    "js"
+  ],
+  "author": "Bryan Watson (Arc)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "latest",
+    "pg": "latest",
+    "pg-hstore": "latest",
+    "sequelize": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
